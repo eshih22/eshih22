@@ -9,7 +9,7 @@ I'm transitioning into **data and product analytics roles**, building on my back
 My sweet spot: using **data to explain what’s working, what’s not, and what to do next.**
 
 ### Courses
-UC Berkeley Certificate of Data Analytics
+[UC Berkeley Certificate of Data Analytics](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=18099239#collapse_3)
 
 This was a 6 month in depth program focused on foundational data analysis and visualization concepts.
   - Project 1
