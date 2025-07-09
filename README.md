@@ -12,6 +12,6 @@ My sweet spot: using **data to explain what’s working, what’s not, and what 
 [UC Berkeley Certificate of Data Analytics](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=18099239#collapse_3)
 
 This was a 6 month in depth program focused on foundational data analysis and visualization concepts.
-  - Project 1
+  - [Project 1](https://github.com/eshih22/data_visualization-challenge)
   - Project 2
 
